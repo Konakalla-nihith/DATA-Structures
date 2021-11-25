@@ -18,7 +18,7 @@ public class duplicates
 	  {
 	    if (a[j] == a[k])
 	      {
-		System.out.println (a[j]);
+		System.out.println ("Duplicates are present");
 		break;
 	      }
 	  }
