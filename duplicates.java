@@ -5,7 +5,7 @@ public class duplicates
   {
     Scanner s = new Scanner (System.in);
     int ele, n;
-      System.out.println ("Enter the number of elemets : ");
+      System.out.println ("Enter the number of elements : ");
       n = s.nextInt ();
     int[] a = new int[n];
     for (int i = 0; i < n; i++)
